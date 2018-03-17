@@ -1,0 +1,4 @@
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = git@github.com:thomasSve/CarND-LaneLines-P1.git
+	branch = master
